@@ -1,5 +1,3 @@
-# Content
-
 Welcome to the Data Science course! Over the next 100 days, you will learn a wide range of topics related to Python programming, data science, and machine learning. These topics will be covered in a variety of posts, so be sure to bookmark this page and follow me here and on GitHub for updates.
 
 Throughout the course, you will have the opportunity to work with real-world data sets and apply the concepts you have learned to solve practical problems. You will also find exercises in each post that you can practice to further solidify your understanding of the material. All materials and exercises will be available on the GitHub repository linked below.
@@ -424,5 +422,7 @@ We hope that you will enjoy learning about data science with me! By completing t
 We would like to thank you for joining me on this journey and hope that you will continue to follow us for future updates and learning opportunities. Don't forget to check out the GitHub repository linked below for all materials and exercises, and we look forward to seeing what you will accomplish with your new skills!
 
 ## GitHub link: [Complete-Data-Science-Bootcamp](https://github.com/anurag629/Complete-Data-Science-Bootcamp)
+
+### If you suggest some topics to be added then create a PR or comment on this post: [Complete-Data-Science-Bootcamp](https://dev.to/anurag629/complete-data-science-roadmap-bootcamp-from-noob-to-expert-4ee2)
 
 <a href="https://www.buymeacoffee.com/anurag629" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

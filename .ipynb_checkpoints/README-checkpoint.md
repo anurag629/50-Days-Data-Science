@@ -6,14 +6,6 @@ Throughout the course, you will have the opportunity to work with real-world dat
 
 By the end of the course, you will have a strong foundation in data science and be well-prepared to pursue further study or a career in the field. So let's get started!
 
-
-| **Day** | **Content** | **Article Links** |
-| --- | --- | --- |
-| Day 1 | Python Basics | [Link](https://dev.to/anurag629/master-the-basics-of-python-a-step-by-step-guide-16je) |
-| Day 2 | Python Data Structure | ... |
-| ... | ... | ... |
-
-
 1. Python
     
     1. Python basics
@@ -313,118 +305,117 @@ By the end of the course, you will have a strong foundation in data science and 
 
 ### Same in tabular form:
 
-
-| **Module** | **Topic** | **Sub-Topic** | **Content** |
-| --- | --- | --- | --- |
-| Python | Python basics | Input/Output | Printing to the console |
-|  |  |  | Getting input from the user |
-|  |  | Operators | Arithmetic operators (e.g. +, -, \*, /) |
-|  |  |  | Comparison operators (e.g. ==, !=, &gt;, &lt;) |
-|  |  |  | Logical operators (e.g. and, or, not) |
-|  |  | Operations | Working with variables |
-|  |  |  | Data types (e.g. int, float, str) |
-|  |  |  | Type conversion |
-|  |  |  | Basic string manipulation (e.g. indexing, slicing, concatenation) |
-|  | Python data structures | list | Creating and accessing lists |
-|  |  |  | Modifying lists (e.g. adding, removing, and sorting elements) |
-|  |  |  | Looping through lists |
-|  |  | tuple | Creating and accessing tuples |
-|  |  |  | Modifying tuples (e.g. adding and removing elements) |
-|  |  |  | Looping through tuples |
-|  |  | set | Creating and accessing sets |
-|  |  |  | Modifying sets (e.g. adding, removing, and intersecting elements) |
-|  |  |  | Looping through sets |
-|  |  | dictionary | Creating and accessing dictionaries |
-|  |  |  | Modifying dictionaries (e.g. adding, removing, and updating key-value pairs) |
-|  |  |  | Looping through dictionaries |
-|  | Python fundamentals | loops | For loops |
-|  |  |  | While loops |
-|  |  |  | Break and continue statements |
-|  |  | functions | Defining and calling functions |
-|  |  |  | Parameters and arguments |
-|  |  |  | Return values |
-|  |  | object and classes | Defining classes and objects |
-|  |  |  | Constructors and destructors |
-|  |  |  | Inheritance |
-|  |  |  | Method overloading and overriding |
-|  | Pandas | Introduction to Pandas library |  |
-|  |  |  | Loading and saving data with Pandas |
-|  |  |  | Working with DataFrames and Series |
-|  |  |  | Manipulating and cleaning data with Pandas |
-|  | Numpy | Introduction to Numpy library |  |
-|  |  |  | Creating and accessing arrays |
-|  |  |  | Array operations (e.g. reshaping, slicing, and element-wise operations) |
-|  |  |  | Mathematical and statistical functions |
-|  | Matplotlib | Introduction to Matplotlib library |  |
-|  |  |  | Creating basic plots (e.g. line, scatter, and bar plots) |
-|  |  |  | Customizing plots (e.g. labels, titles, and legends) |
-|  |  |  | Saving and showing plots |
-| SQL | Introduction to Structured Query Language (SQL) |  |  |
-|  |  |  | Creating and modifying databases and tables |
-|  |  |  | Selecting, filtering, and sorting data |
-|  |  |  | Grouping and aggregating |
-|  | Joining tables |  |  |
-|  |  |  | Subqueries and views |
-| Maths Refresher | Statistics | Mean, median, mode |  |
-|  |  |  | Range, variance, standard deviation |
-|  |  |  | Percentiles and quartiles |
-|  |  |  | Z-scores |
-|  | Probability | Basic probability concepts (e.g. events, sample space, and probability) |  |
-|  |  |  | Conditional probability and independence |
-|  |  |  | Bayes' theorem |
-|  | Linear algebra | Vectors and matrices |  |
-|  |  |  | Matrix operations (e.g. addition, multiplication, and transposition) |
-|  |  |  | Determinants and inverses |
-|  | Calculus | Limits and continuity |  |
-|  |  |  | Derivatives |
-|  |  |  | Integrals |
-|  |  |  | Fundamental theorem of calculus |
-| Python for data science | Jupyter notebook and google collab walkthrough | Introduction to Jupyter notebooks and Google Colab |  |
-|  |  |  | Creating and running cells |
-|  |  |  | Importing and exporting notebooks |
-|  | Python data science libraries | Introduction to popular data science libraries (e.g. Scikit-learn, TensorFlow, and Keras) |  |
-|  |  |  | Installing and importing libraries |
-|  | Exploratory data analysis | Visualization | Introduction to Matplotlib and Seaborn |
-|  |  |  | Plotting distributions, scatterplots, and boxplots |
-|  |  |  | Customizing plots |
-|  |  | Summary statistics | Calculating basic statistics (e.g. mean, median, and standard deviation) |
-|  |  |  | Generating descriptive statistics with Pandas |
-|  |  | Correlation analysis | Calculating and interpreting correlations |
-|  |  |  | Visualizing correlations with scatterplots |
-|  |  | Data cleaning | Handling missing values |
-|  |  |  | Removing outliers |
-|  |  |  | Normalizing and standardizing data |
-|  |  | Dimension reduction | Introduction to dimension reduction techniques (e.g. PCA and t-SNE) |
-|  |  |  | Implementing and interpreting dimension reduction in Python |
-|  |  | Anomaly detection | Introduction to anomaly detection techniques (e.g. isolation forests and local outlier factor) |
-|  |  |  | Implementing and interpreting anomaly detection in Python |
-|  |  | Feature engineering | Introduction to feature engineering |
-|  |  |  | Creating new features from existing data |
-|  |  |  | Selecting relevant features for model building |
-| Machine learning | Introduction | Definition and types of machine learning |  |
-|  |  |  | Differences between supervised, unsupervised, and reinforcement learning |
-|  | Supervised learning | Regression and classification algorithms |  |
-|  |  |  | Evaluation metrics for regression and classification models (e.g. mean squared error and accuracy) |
-|  | Classification | K-nearest neighbors (KNN) |  |
-|  |  |  | Logistic regression |
-|  |  |  | Support vector machines (SVM) |
-|  | Decision trees | Introduction to decision trees |  |
-|  |  |  | Implementing decision trees in Python |
-|  |  |  | Visualizing decision trees |
-|  | Time series prediction | Introduction to time series data |  |
-|  |  |  | Moving average and exponential smoothing models |
-|  |  |  | Autoregressive integrated moving average (ARIMA) model |
-|  | Unsupervised learning | Clustering algorithms (e.g. k-means and hierarchical clustering) |  |
-|  |  |  | Evaluation metrics for clustering (e.g. silhouette score and calinski-harabasz index) |
-|  | Some projects (5-8) | Suggested projects to apply machine learning concepts (e.g. building a spam detector or a customer segmentation model) |  |
-| Tableau | Introduction to Tableau |  |  |
-|  |  |  | Connecting to and importing data |
-|  |  |  | Working with data |
-|  | Working with data in Tableau |  |  |
-|  |  |  | Creating and customizing visualizations |
-|  |  |  | Dashboarding and storytelling with Tableau |
-|  |  | Advanced techniques | Calculated fields, parameters, and table calculations |
-|  |  |  | Exporting and publishing dashboards |
+| **Module** | **Topic** | **Sub-Topic** | **Content** | **Links** |
+| --- | --- | --- | --- | --- |
+| Python | Python basics | Input/Output | Printing to the console |  |
+|  |  |  | Getting input from the user |  |
+|  |  | Operators | Arithmetic operators (e.g. +, -, \*, /) |  |
+|  |  |  | Comparison operators (e.g. ==, !=, &gt;, &lt;) |  |
+|  |  |  | Logical operators (e.g. and, or, not) |  |
+|  |  | Operations | Working with variables |  |
+|  |  |  | Data types (e.g. int, float, str) |  |
+|  |  |  | Type conversion |  |
+|  |  |  | Basic string manipulation (e.g. indexing, slicing, concatenation) |  |
+|  | Python data structures | list | Creating and accessing lists |  |
+|  |  |  | Modifying lists (e.g. adding, removing, and sorting elements) |  |
+|  |  |  | Looping through lists |  |
+|  |  | tuple | Creating and accessing tuples |  |
+|  |  |  | Modifying tuples (e.g. adding and removing elements) |  |
+|  |  |  | Looping through tuples |  |
+|  |  | set | Creating and accessing sets |  |
+|  |  |  | Modifying sets (e.g. adding, removing, and intersecting elements) |  |
+|  |  |  | Looping through sets |  |
+|  |  | dictionary | Creating and accessing dictionaries |  |
+|  |  |  | Modifying dictionaries (e.g. adding, removing, and updating key-value pairs) |  |
+|  |  |  | Looping through dictionaries |  |
+|  | Python fundamentals | loops | For loops |  |
+|  |  |  | While loops |  |
+|  |  |  | Break and continue statements |  |
+|  |  | functions | Defining and calling functions |  |
+|  |  |  | Parameters and arguments |  |
+|  |  |  | Return values |  |
+|  |  | object and classes | Defining classes and objects |  |
+|  |  |  | Constructors and destructors |  |
+|  |  |  | Inheritance |  |
+|  |  |  | Method overloading and overriding |  |
+|  | Pandas | Introduction to Pandas library |  |  |
+|  |  |  | Loading and saving data with Pandas |  |
+|  |  |  | Working with DataFrames and Series |  |
+|  |  |  | Manipulating and cleaning data with Pandas |  |
+|  | Numpy | Introduction to Numpy library |  |  |
+|  |  |  | Creating and accessing arrays |  |
+|  |  |  | Array operations (e.g. reshaping, slicing, and element-wise operations) |  |
+|  |  |  | Mathematical and statistical functions |  |
+|  | Matplotlib | Introduction to Matplotlib library |  |  |
+|  |  |  | Creating basic plots (e.g. line, scatter, and bar plots) |  |
+|  |  |  | Customizing plots (e.g. labels, titles, and legends) |  |
+|  |  |  | Saving and showing plots |  |
+| SQL | Introduction to Structured Query Language (SQL) |  |  |  |
+|  |  |  | Creating and modifying databases and tables |  |
+|  |  |  | Selecting, filtering, and sorting data |  |
+|  |  |  | Grouping and aggregating |  |
+|  | Joining tables |  |  |  |
+|  |  |  | Subqueries and views |  |
+| Maths Refresher | Statistics | Mean, median, mode |  |  |
+|  |  |  | Range, variance, standard deviation |  |
+|  |  |  | Percentiles and quartiles |  |
+|  |  |  | Z-scores |  |
+|  | Probability | Basic probability concepts (e.g. events, sample space, and probability) |  |  |
+|  |  |  | Conditional probability and independence |  |
+|  |  |  | Bayes' theorem |  |
+|  | Linear algebra | Vectors and matrices |  |  |
+|  |  |  | Matrix operations (e.g. addition, multiplication, and transposition) |  |
+|  |  |  | Determinants and inverses |  |
+|  | Calculus | Limits and continuity |  |  |
+|  |  |  | Derivatives |  |
+|  |  |  | Integrals |  |
+|  |  |  | Fundamental theorem of calculus |  |
+| Python for data science | Jupyter notebook and google collab walkthrough | Introduction to Jupyter notebooks and Google Colab |  |  |
+|  |  |  | Creating and running cells |  |
+|  |  |  | Importing and exporting notebooks |  |
+|  | Python data science libraries | Introduction to popular data science libraries (e.g. Scikit-learn, TensorFlow, and Keras) |  |  |
+|  |  |  | Installing and importing libraries |  |
+|  | Exploratory data analysis | Visualization | Introduction to Matplotlib and Seaborn |  |
+|  |  |  | Plotting distributions, scatterplots, and boxplots |  |
+|  |  |  | Customizing plots |  |
+|  |  | Summary statistics | Calculating basic statistics (e.g. mean, median, and standard deviation) |  |
+|  |  |  | Generating descriptive statistics with Pandas |  |
+|  |  | Correlation analysis | Calculating and interpreting correlations |  |
+|  |  |  | Visualizing correlations with scatterplots |  |
+|  |  | Data cleaning | Handling missing values |  |
+|  |  |  | Removing outliers |  |
+|  |  |  | Normalizing and standardizing data |  |
+|  |  | Dimension reduction | Introduction to dimension reduction techniques (e.g. PCA and t-SNE) |  |
+|  |  |  | Implementing and interpreting dimension reduction in Python |  |
+|  |  | Anomaly detection | Introduction to anomaly detection techniques (e.g. isolation forests and local outlier factor) |  |
+|  |  |  | Implementing and interpreting anomaly detection in Python |  |
+|  |  | Feature engineering | Introduction to feature engineering |  |
+|  |  |  | Creating new features from existing data |  |
+|  |  |  | Selecting relevant features for model building |  |
+| Machine learning | Introduction | Definition and types of machine learning |  |  |
+|  |  |  | Differences between supervised, unsupervised, and reinforcement learning |  |
+|  | Supervised learning | Regression and classification algorithms |  |  |
+|  |  |  | Evaluation metrics for regression and classification models (e.g. mean squared error and accuracy) |  |
+|  | Classification | K-nearest neighbors (KNN) |  |  |
+|  |  |  | Logistic regression |  |
+|  |  |  | Support vector machines (SVM) |  |
+|  | Decision trees | Introduction to decision trees |  |  |
+|  |  |  | Implementing decision trees in Python |  |
+|  |  |  | Visualizing decision trees |  |
+|  | Time series prediction | Introduction to time series data |  |  |
+|  |  |  | Moving average and exponential smoothing models |  |
+|  |  |  | Autoregressive integrated moving average (ARIMA) model |  |
+|  | Unsupervised learning | Clustering algorithms (e.g. k-means and hierarchical clustering) |  |  |
+|  |  |  | Evaluation metrics for clustering (e.g. silhouette score and calinski-harabasz index) |  |
+|  | Some projects (5-8) | Suggested projects to apply machine learning concepts (e.g. building a spam detector or a customer segmentation model) |  |  |
+| Tableau | Introduction to Tableau |  |  |  |
+|  |  |  | Connecting to and importing data |  |
+|  |  |  | Working with data |  |
+|  | Working with data in Tableau |  |  |  |
+|  |  |  | Creating and customizing visualizations |  |
+|  |  |  | Dashboarding and storytelling with Tableau |  |
+|  |  | Advanced techniques | Calculated fields, parameters, and table calculations |  |
+|  |  |  | Exporting and publishing dashboards |  |
 
 We hope that you will enjoy learning about data science with me! By completing this course, you should now have a strong foundation in Python programming, SQL, maths refresher, data science with Python, machine learning, and Tableau. You should be well-prepared to pursue further study or a career in the field, and we encourage you to continue learning and staying up-to-date on new developments in the world of data science.
 

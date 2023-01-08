@@ -11,6 +11,7 @@ By the end of the course, you will have a strong foundation in data science and 
 | --- | --- | --- |
 | Day 1 | Python Basics | [Link](https://dev.to/anurag629/master-the-basics-of-python-a-step-by-step-guide-16je) |
 | Day 2 | Python Data Structure | [Link](https://dev.to/anurag629/take-your-python-skills-to-the-next-level-with-built-in-data-structures-5ec7) |
+| Day 3 | OOPs in Python | [Link](https://dev.to/anurag629/oop-in-python-a-practical-guide-10mj) |
 | ... | ... | ... |
 
 

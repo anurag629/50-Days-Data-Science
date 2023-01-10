@@ -1,0 +1,6 @@
+Name, Age, Gender, Occupation, Salary, Date
+John, 25, Male, Engineer, 50000, 01-01-2020
+Jane, 32, Female, Doctor, 60000, 01-02-2020
+Mike, 45, Male, Teacher, 55000, 01-03-2020
+Emily, 29, Female, Lawyer, 70000, 01-04-2020
+Brad, 40, Male, Sales, 65000, NaN

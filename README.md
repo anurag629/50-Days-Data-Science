@@ -13,7 +13,9 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 2 | Python Data Structure | [Link](https://dev.to/anurag629/take-your-python-skills-to-the-next-level-with-built-in-data-structures-5ec7) |
 | Day 3 | OOPs in Python | [Link](https://dev.to/anurag629/oop-in-python-a-practical-guide-10mj) |
 | Day 4 | NumPy | [Link](https://dev.to/anurag629/numpy-101-a-beginners-guide-to-data-science-with-python-49an) |
+| Day 5 | Pandas | [Link](https://dev.to/anurag629/mastering-pandas-a-comprehensive-guide-with-exercises-5bn8) |
 | ... | ... | ... |
+
 
 
 1. Python

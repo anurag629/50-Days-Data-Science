@@ -1,0 +1,11 @@
+Product,Category,Sales,Profit,Discount,Date
+Shirt,Clothing,500,100,0.2,01-01-2020
+Pants,Clothing,300,50,0.1,01-01-2020
+Shoes,Footwear,200,75,0.1,01-01-2020
+Watch,Accessories,150,25,0.15,01-01-2020
+Bag,Accessories,75,10,0.1,01-01-2020
+Shirt,Clothing,450,90,0.2,02-01-2020
+Pants,Clothing,350,70,0.1,02-01-2020
+Shoes,Footwear,250,90,0.1,02-01-2020
+Watch,Accessories,100,20,0.15,02-01-2020
+Bag,Accessories,50,5,0.1,02-01-2020

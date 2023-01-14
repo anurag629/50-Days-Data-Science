@@ -1,0 +1,11 @@
+Name,Department,Salary,Age,Hire_Date
+John,IT,50000,25,01-01-2015
+Mike,Marketing,60000,NaN,02-01-2016
+Sara,HR,45000,30,01-01-2017
+Tom,IT,55000,28,03-01-2018
+Alex,Finance,60000,NaN,04-01-2019
+Nina,IT,52000,32,01-01-2020
+David,Marketing,58000,NaN,02-01-2021
+Emily,HR,46000,28,03-01-2022
+Brian,IT,57000,30,04-01-2023
+Michael,Finance,65000,35,01-01-2024

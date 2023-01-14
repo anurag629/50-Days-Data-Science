@@ -16,7 +16,8 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 5 | Pandas | [Link](https://dev.to/anurag629/mastering-pandas-a-comprehensive-guide-with-exercises-5bn8) |
 | Day 6 | Data Visualization: Matplotlib and Seaborn | [Link](https://dev.to/anurag629/exploring-different-types-of-plots-best-practices-and-tips-for-effective-data-visualization-ina) |
 | Day 7 | DBMS(SQL and SQLite) | [Link](https://dev.to/anurag629/understanding-the-basics-and-advanced-concepts-of-rdbms-and-sql-for-data-science-and-analysis-5h4l) |
-| Day 8 | Linear Algebra | [Link](https://dev.to/anurag629/linear-algebra-for-data-science-understanding-and-applying-vectors-matrices-and-their-operations-using-numpy-5a7m) |
+| Day 8 | Linear Algebra/Matrics | [Link](https://dev.to/anurag629/linear-algebra-for-data-science-understanding-and-applying-vectors-matrices-and-their-operations-using-numpy-5a7m) |
+| Day 9 | Statistics | [Link](https://dev.to/anurag629/statistics-for-data-science-with-practice-27h6) |
 | ... | ... | ... |
 
 

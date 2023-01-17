@@ -19,6 +19,7 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 8 | Linear Algebra/Matrics | [Link](https://dev.to/anurag629/linear-algebra-for-data-science-understanding-and-applying-vectors-matrices-and-their-operations-using-numpy-5a7m) |
 | Day 9 | Statistics | [Link](https://dev.to/anurag629/statistics-for-data-science-with-practice-27h6) |
 | Day 10 | Probability | [Link](https://dev.to/anurag629/probability-for-data-science-134e) |
+| Day 11 | Calculas | [Link](https://dev.to/anurag629/calculus-for-data-science-an-introduction-33lm) |
 | ... | ... | ... |
 
 

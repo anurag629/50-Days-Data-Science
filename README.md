@@ -22,6 +22,7 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 11 | Calculas | [Link](https://dev.to/anurag629/calculus-for-data-science-an-introduction-33lm) |
 | Day 12 | EDA (Exploratory Data Analysis) | [Link](https://dev.to/anurag629/data-detective-tips-and-tricks-for-conducting-effective-exploratory-data-analysis-184c) |
 | Day 13 | Introduction to Machine Learning | [Link](https://dev.to/anurag629/introduction-to-machine-learning-2fd5) |
+| Day 14 | Supervised Learning | [Link](https://dev.to/anurag629/supervised-learning-4o1i) |
 | ... | ... | ... |
 
 

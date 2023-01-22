@@ -24,6 +24,7 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 13 | Introduction to Machine Learning | [Link](https://dev.to/anurag629/introduction-to-machine-learning-2fd5) |
 | Day 14 | Supervised Learning | [Link](https://dev.to/anurag629/supervised-learning-4o1i) |
 | Day 15 | Unsupervised Learning | [Link](https://dev.to/anurag629/unsupervised-learning-techniques-types-and-applications-48kk) |
+| Day 16 | Reinforcement Learning Learning | [Link](https://dev.to/anurag629/reinforcement-learning-a-great-introduction-3c24) |
 | ... | ... | ... |
 
 

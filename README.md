@@ -28,6 +28,7 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 17 |  Linear Regression in Python: From Data to Model | [Link](https://dev.to/anurag629/linear-regression-in-python-from-data-to-model-3m34) |
 | Day 18 |  Encoding Techniques: Transforming Categorical Data | [Link](https://dev.to/anurag629/transforming-categorical-data-a-practical-guide-to-handling-non-numerical-variables-for-machine-learning-algorithms-cld) |
 | Day 19 |  Multivariate Linear Regression | [Link](https://dev.to/anurag629/predicting-medical-costs-using-multivariate-linear-regression-in-python-440l) |
+| Day 20 | Bias vs Variance | [Link](https://dev.to/anurag629/bias-vs-variance-the-key-to-successful-predictive-modeling-mbp) |
 | ... | ... | ... |
 
 

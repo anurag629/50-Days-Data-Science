@@ -29,6 +29,7 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 18 |  Encoding Techniques: Transforming Categorical Data | [Link](https://dev.to/anurag629/transforming-categorical-data-a-practical-guide-to-handling-non-numerical-variables-for-machine-learning-algorithms-cld) |
 | Day 19 |  Multivariate Linear Regression | [Link](https://dev.to/anurag629/predicting-medical-costs-using-multivariate-linear-regression-in-python-440l) |
 | Day 20 | Bias vs Variance | [Link](https://dev.to/anurag629/bias-vs-variance-the-key-to-successful-predictive-modeling-mbp) |
+| Day 21 | Evaluation Metrics for Classification and Regression | [Link](https://dev.to/anurag629/evaluation-metrics-for-classification-and-regression-a-comprehensive-guide-47hb) |
 | ... | ... | ... |
 
 

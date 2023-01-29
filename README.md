@@ -31,6 +31,7 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 20 | Bias vs Variance | [Link](https://dev.to/anurag629/bias-vs-variance-the-key-to-successful-predictive-modeling-mbp) |
 | Day 21 | Evaluation Metrics for Classification and Regression | [Link](https://dev.to/anurag629/evaluation-metrics-for-classification-and-regression-a-comprehensive-guide-47hb) |
 | Day 22 | Heuristic search Techniques | [Link](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9) |
+| Day 23 | Project 1: Predicting Boston Housing Prices using Regression Models | [Link](https://www.kaggle.com/code/anurag629/boston-house-prices-regression-model) |
 | ... | ... | ... |
 
 

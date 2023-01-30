@@ -32,6 +32,7 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 21 | Evaluation Metrics for Classification and Regression | [Link](https://dev.to/anurag629/evaluation-metrics-for-classification-and-regression-a-comprehensive-guide-47hb) |
 | Day 22 | Heuristic search Techniques | [Link](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9) |
 | Day 23 | Project 1: Predicting Boston Housing Prices using Regression Models | [Link](https://www.kaggle.com/code/anurag629/boston-house-prices-regression-model) |
+| Day 24 | Project 2: Email Spam Classification | [Link](https://anurag629.hashnode.dev/uncovering-the-best-email-spam-classifier-a-comparative-study-of-machine-learning-algorithms) |
 | ... | ... | ... |
 
 

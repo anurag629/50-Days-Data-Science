@@ -33,6 +33,8 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 22 | Heuristic search Techniques | [Link](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9) |
 | Day 23 | Project 1: Predicting Boston Housing Prices using Regression Models | [Link](https://www.kaggle.com/code/anurag629/boston-house-prices-regression-model) |
 | Day 24 | Project 2: Email Spam Classification | [Link](https://anurag629.hashnode.dev/uncovering-the-best-email-spam-classifier-a-comparative-study-of-machine-learning-algorithms) |
+| Day 25 | KNN (K-nearest neighbors) | [Link](https://anurag629.hashnode.dev/the-k-nearest-neighbors-algorithm-for-regression-and-classification) |
+| Day 26 | Project 3: KNN (K-nearest neighbors) Classification | [Link](https://anurag629.hashnode.dev/knn-k-nearest-neighbors-classification) |
 | ... | ... | ... |
 
 

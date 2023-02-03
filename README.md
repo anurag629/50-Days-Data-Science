@@ -35,6 +35,8 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 24 | Project 2: Email Spam Classification | [Link](https://anurag629.hashnode.dev/uncovering-the-best-email-spam-classifier-a-comparative-study-of-machine-learning-algorithms) |
 | Day 25 | KNN (K-nearest neighbors) | [Link](https://anurag629.hashnode.dev/the-k-nearest-neighbors-algorithm-for-regression-and-classification) |
 | Day 26 | Project 3: KNN (K-nearest neighbors) Classification | [Link](https://anurag629.hashnode.dev/knn-k-nearest-neighbors-classification) |
+| Day 27 | Logistic Regression | [Link](https://dev.to/anurag629/predicting-diabetes-outcomes-with-logistic-regression-a-hands-on-guide-44e5) |
+| Day 28 | Support Vector Machines (SVM) | [Link](https://dev.to/anurag629/support-vector-machines-svm-supervised-machine-learning-3lfo) |
 | ... | ... | ... |
 
 

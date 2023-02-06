@@ -37,6 +37,9 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 26 | Project 3: KNN (K-nearest neighbors) Classification | [Link](https://anurag629.hashnode.dev/knn-k-nearest-neighbors-classification) |
 | Day 27 | Logistic Regression | [Link](https://dev.to/anurag629/predicting-diabetes-outcomes-with-logistic-regression-a-hands-on-guide-44e5) |
 | Day 28 | Support Vector Machines (SVM) | [Link](https://dev.to/anurag629/support-vector-machines-svm-supervised-machine-learning-3lfo) |
+| Day 29 | Decision Trees | [Link](https://dev.to/anurag629/decision-trees-advantages-disadvantages-and-applications-25b2) |
+| Day 30 | Time Series Prediction | [Link](https://dev.to/anurag629/time-series-prediction-143) |
+| Day 31 | Clustering Algorithms | [Link](https://dev.to/anurag629/clustering-algorithms-understanding-types-applications-and-when-to-use-them-43ig) |
 | ... | ... | ... |
 
 

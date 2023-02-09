@@ -40,6 +40,9 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 29 | Decision Trees | [Link](https://dev.to/anurag629/decision-trees-advantages-disadvantages-and-applications-25b2) |
 | Day 30 | Time Series Prediction | [Link](https://dev.to/anurag629/time-series-prediction-143) |
 | Day 31 | Clustering Algorithms | [Link](https://dev.to/anurag629/clustering-algorithms-understanding-types-applications-and-when-to-use-them-43ig) |
+| Day 32 | Centroid-based Clustering | [Link](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im) |
+| Day 33 | Project 4: Sentiment Analysis of Twitter | [Link](https://dev.to/anurag629/sentiment-analysis-of-twitter-data-using-naive-bayes-algorithm-2b1f) |
+| Day 34 | Project 5: Hotel Reservations Dataset: Best Machine Learning | [Link](https://www.kaggle.com/code/anurag629/hotel-reservations-dataset-best-machine-learning/notebook) |
 | ... | ... | ... |
 
 

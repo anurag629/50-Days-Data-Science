@@ -43,6 +43,8 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 32 | Centroid-based Clustering | [Link](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im) |
 | Day 33 | Project 4: Sentiment Analysis of Twitter | [Link](https://dev.to/anurag629/sentiment-analysis-of-twitter-data-using-naive-bayes-algorithm-2b1f) |
 | Day 34 | Project 5: Hotel Reservations Dataset: Best Machine Learning | [Link](https://www.kaggle.com/code/anurag629/hotel-reservations-dataset-best-machine-learning/notebook) |
+| Day 35 | GridSearchCV in scikit-learn | [Link](https://dev.to/anurag629/gridsearchcv-in-scikit-learn-a-comprehensive-guide-2a72) |
+| Day 36 | Project 5(Improved): Hotel Reservations Dataset: Best Machine Learning | [Link](https://www.kaggle.com/code/anurag629/hotel-reservations-dataset-best-machine-learning) |
 | ... | ... | ... |
 
 

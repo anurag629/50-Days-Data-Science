@@ -45,6 +45,10 @@ By the end of the course, you will have a strong foundation in data science and 
 | Day 34 | Project 5: Hotel Reservations Dataset: Best Machine Learning | [Link](https://www.kaggle.com/code/anurag629/hotel-reservations-dataset-best-machine-learning/notebook) |
 | Day 35 | GridSearchCV in scikit-learn | [Link](https://dev.to/anurag629/gridsearchcv-in-scikit-learn-a-comprehensive-guide-2a72) |
 | Day 36 | Project 5(Improved): Hotel Reservations Dataset: Best Machine Learning | [Link](https://www.kaggle.com/code/anurag629/hotel-reservations-dataset-best-machine-learning) |
+| Day 37 | Project 6: Drug classification | [Link](https://www.kaggle.com/code/anurag629/drug-classification-99-9999-accuracy/notebook) |
+| Day 38 | Random Forest | [Link](https://anurag629.hashnode.dev/random-forest-algorithms-advantages-for-greener-machine-learning) |
+| Day 39 | Dimensionality Reduction | [Link](https://anurag629.hashnode.dev/dimensionality-reduction-an-introduction-to-methods-and-applications) |
+| Day 40 | Overfitting and Underfitting | [Link](https://anurag629.hashnode.dev/overfitting-and-underfitting-in-machine-learning) |
 | ... | ... | ... |
 
 

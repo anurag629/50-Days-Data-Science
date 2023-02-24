@@ -1,4 +1,4 @@
-Welcome to the Data Science course! Over the next 100 days, you will learn a wide range of topics related to Python programming, data science, and machine learning. These topics will be covered in a variety of posts, so be sure to bookmark this page and follow me here and on GitHub for updates.
+Welcome to the Data Science course! Over the next 50 days, you will learn a wide range of topics related to Python programming, data science, and machine learning. These topics will be covered in a variety of posts, so be sure to bookmark this page and follow me here and on GitHub for updates.
 
 Throughout the course, you will have the opportunity to work with real-world data sets and apply the concepts you have learned to solve practical problems. You will also find exercises in each post that you can practice to further solidify your understanding of the material. All materials and exercises will be available on the GitHub repository linked below.
 

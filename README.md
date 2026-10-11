@@ -2,6 +2,13 @@ Welcome to the Data Science course! Over the next 50 days, you will learn a wide
 
 Throughout the course, you will have the opportunity to work with real-world data sets and apply the concepts you have learned to solve practical problems. You will also find exercises in each post that you can practice to further solidify your understanding of the material. All materials and exercises will be available on the GitHub repository linked below.
 
+## Join the community
+
+You don't have to do this alone. The [CODERCOPS Discord](https://discord.gg/wkq8h3VWr3) has a place for this roadmap.
+
+- Run `/checkin` once a day and pick **50 Days of Data Science**. A bot keeps a log thread with your name on it and tracks your streak.
+- Ask questions in your log thread, and run `/streaks` to see how everyone else is doing.
+
 ## GitHub link: [Complete-Data-Science-Bootcamp](https://github.com/anurag629/Complete-Data-Science-Bootcamp)
 
 By the end of the course, you will have a strong foundation in data science and be well-prepared to pursue further study or a career in the field. So let's get started!
